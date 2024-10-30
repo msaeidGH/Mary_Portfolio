@@ -4,7 +4,15 @@ Data Science portfolio
 # [Project 1 :FoodHub Order Analysis](https://github.com/msaeidGH/FoodHub)
 - Python and Statistics
 - This project involves analyzing the data to get a fair idea about the demand of different restaurants which will help the company to enhance business and customer experience.
+- Skills & Tools Covered
+  - Exploratory Data Analysis
+  - Data Visualization
+  - Statistics
 
 # [Project 2 : Predicting Potential Customers](https://github.com/msaeidGH/PotentialCustomerPrediction)
 - Classification and Hypothesis Testing
 - This project involves identifying which leads are more likely to convert to paid customers based on attributes of leads and their interaction details.
+- Skills & Tools Covered
+  - Decision Trees
+  - Random Forests
+  - Hyperparameter Tuning
