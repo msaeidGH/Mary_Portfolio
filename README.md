@@ -1,4 +1,3 @@
-# Mary_Data Science_Portfolio
 Data Science portfolio
 
 # [Project 1 :FoodHub Order Analysis](https://github.com/msaeidGH/FoodHub)
