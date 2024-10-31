@@ -16,7 +16,7 @@ Data Science portfolio
   - Random Forests
   - Hyperparameter Tuning
 
-# [Proejct 3 : Amazon Product Recommendation System]()
+# [Proejct 3 : Amazon Product Recommendation System](https://github.com/msaeidGH/AmazonRecommendationSystem)
 - This project involves recommending the best Amazon products available to users based on past rating data using recommendation systems techniques.
 - Skills & Tools Covered
   - Rank-based Recommendation Systems
