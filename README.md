@@ -1,5 +1,5 @@
 Data projects portfolio
-# [Project 1 :COVID-19 Data Dashboard in Tableau]([https://github.com/msaeidGH/FoodHub](https://github.com/msaeidGH/CovidData))
+# [Project 1 :COVID-19 Data Dashboard in Tableau](https://github.com/msaeidGH/CovidData)
 - Welcome to my COVID-19 Dashboard project, built in Tableau!
 - This dashboard provides a high-level overview of COVID-19 statistics, including global and continent-level case counts, death figures, and an evolving picture of infection rates by country.
 
