@@ -1,2 +1,2 @@
 # Mary_Portfolio
-Data Science portfolio
+Data portfolio
