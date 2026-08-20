@@ -1,7 +1,5 @@
 Data projects portfolio
-# [Project 2 :Nurse Staffing Analysis — CMS Payroll-Based Journal (PBJ), Q2 2024](https://github.com/msaeidGH/DataCleaningInSQL)
-# Nurse Staffing Analysis — CMS Payroll-Based Journal (PBJ), Q2 2024
-
+# [Project 2 :Nurse Staffing Analysis — CMS Payroll-Based Journal (PBJ), Q2 2024](https://github.com/msaeidGH/nurse-staffing-analysis)
 ## Overview
 
 This project analyzes daily nurse staffing levels at U.S. skilled nursing facilities (SNFs) using CMS's Payroll-Based Journal (PBJ) data for the second quarter of 2024. The goal was to understand how staffing hours relate to patient census, where staffing coverage is weakest, and how reliant different states are on contract nursing staff — then surface those findings in an interactive dashboard.
