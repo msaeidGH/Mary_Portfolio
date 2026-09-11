@@ -1,4 +1,23 @@
 Data projects portfolio
+
+# [Project 1 :Retail Sales Performance Analysis - Cloud-Native ELT Pipeline](https://github.com/msaeidGH/retail-sales-analysis)
+## Overview
+Designed and built an end-to-end ELT pipeline for retail sales analytics: automated ingestion from AWS S3 into Snowflake, transformation and validation entirely in Snowpark (Python), and an interactive Streamlit-in-Snowflake dashboard with no third-party BI tool in the stack. Configured cross-cloud infrastructure from scratch, including S3 storage integrations, IAM policies, and role-based access control in Snowflake.
+
+`Python` `Snowflake` `Snowpark` `AWS S3` `Streamlit` `SQL`
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+### Project Highlights:
+- Built a modular ELT pipeline (extract, transform, load) with stage-by-stage logging so failures point to the exact stage and cause.
+- Validated and cleaned incoming data in Snowpark: dropped malformed records, recomputed revenue from source fields to catch calculation errors, and derived time-based fields for trend analysis.
+- Configured an AWS S3 storage integration with scoped IAM permissions instead of static access keys.
+- Shipped a 3-tab interactive dashboard (product performance, monthly trends, regional breakdown) reading live from curated Snowflake tables.
+- Diagnosed and resolved infrastructure issues including IAM policy misconfigurations and Snowflake role-based permission gaps.
+
 # [Project 2 :Nurse Staffing Analysis — CMS Payroll-Based Journal (PBJ), Q2 2024](https://github.com/msaeidGH/nurse-staffing-analysis)
 ## Overview
 Cleaned and analyzed 1.3M+ daily staffing records across 14,564 U.S. skilled nursing facilities using CMS's Payroll-Based Journal (PBJ) data. Investigated and resolved real data quality issues, built a reliability-flagged nurse-to-patient ratio metric, and shipped a 4-page interactive dashboard with facility-level search.
